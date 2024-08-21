@@ -1,0 +1,18 @@
+{
+  "name": "Weathery",
+  "version": "0.0.1",
+  "description": "Know your City's Weather",
+  "manifest_version": 3,
+  "author": "Ricky",
+  "icons": {
+    "16": "logo1.png",
+    "32": "logo1.png",
+    "48": "logo1.png",
+    "128": "logo1.png"
+  },
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Weathery"
+  },
+  "permissions": ["geolocation"]
+}
